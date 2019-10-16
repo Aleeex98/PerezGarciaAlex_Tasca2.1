@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Lenguaje de Marcas-->
+<!-- Alex Perez Garcia-->
+<!-- Estopa -->
+
+
+<grupo> 
+    <nombre> Estopa </nombre>
+    <ano> 1999 </ano>
+    <generos_musical>
+        <genero_musical> Pop </genero_musical>
+        <genero_musical> Pop rock </genero_musical>
+        <genero_musical> Rumba catalana </genero_musical>
+    </generos_musical>
+    <pais_procedencia> Barcelona </pais_procedencia>
+    <pagina_web> https://www.estopa.com/ </pagina_web>
+    <imagen_grupo> https://los40es00.epimg.net/los40/imagenes/2019/04/10/musica/1554891446_989003_1554892325_noticia_normal.jpg </imagen_grupo>
+    <videoclips>
+        <Video> https://www.youtube.com/watch?v=KJ2sDvWoQR0 </Video>
+        <video> https://www.youtube.com/watch?v=JmP89cIGJZM </video>
+    </videoclips>
+    <miembros>
+        <miembro> 
+            <nombre> David Muñoz Calvo </nombre> 
+            <instrumento> Guitarra </instrumento>
+            <instrumento> Cantante </instrumento>
+        </miembro>
+        <miembro> 
+            <nombre> José Manuel Muñoz Calvo </nombre> 
+            <instrumento> Guitarra </instrumento>
+            <instrumento> Cantante </instrumento>
+        </miembro>
+    </miembros>
+    <grupos_relacionados>
+        <grupo> 
+            <nombre> El canto del loco </nombre>
+        </grupo>
+        <grupo>
+            <nombre> Mecano </nombre>
+        </grupo>
+        <grupo>
+            <nombre> Hombres G </nombre>
+        </grupo>
+        <grupo> 
+            <nombre> Los piratas </nombre>
+        </grupo>    
+    </grupos_relacionados>
+    <discografia>
+        <disco>
+            <nombre> Estopa </nombre>
+            <ano> 1999 </ano>
+            <compania_discografica> Sony/BMG </compania_discografica>
+            <canciones>
+                <cancion> «La raja de tu falda»	</cancion>
+                <cancion> «Como Camarón» </cancion>
+                <cancion> «Tu calorro» </cancion>
+            </canciones>
+        </disco>
+        <disco>
+            <nombre> Destrangis </nombre>
+            <ano> 2001 </ano>
+            <compania_discografica> Sony/BMG </compania_discografica>
+            <canciones>
+                <cancion> «Partiendo la pana» </cancion>
+                <cancion> «Vuelvo a las andadas» </cancion>
+                <cancion> «Jardín del olvido» </cancion>
+            </canciones>
+        </disco>
+        <disco>
+            <nombre> Voces de ultratumba </nombre>
+            <ano> 2005 </ano>
+            <compania_discografica> Sony/BMG </compania_discografica>
+            <canciones>
+                <cancion> «Malabares» </cancion>
+                <cancion> «Que suerte la mía» </cancion>
+                <cancion> «Paseo» </cancion>
+            </canciones>
+        </disco>
+    
+    </discografia>
+
+</grupo>
